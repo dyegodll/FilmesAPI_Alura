@@ -39,6 +39,75 @@
         "tags": [
           "Filme"
         ],
+        "parameters": [
+          {
+            "name": "skip",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 0
+            }
+          },
+          {
+            "name": "take",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 50
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Filme"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Filme"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Filme"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Filme/{id}": {
+      "get": {
+        "tags": [
+          "Filme"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -51,15 +120,20 @@
     "schemas": {
       "Filme": {
         "required": [
+          "diretor",
           "duracao",
           "genero",
           "titulo"
         ],
         "type": "object",
         "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
           "titulo": {
-            "maxLength": 100,
-            "minLength": 1,
+            "maxLength": 50,
+            "minLength": 0,
             "type": "string"
           },
           "genero": {
@@ -72,6 +146,11 @@
             "minimum": 70,
             "type": "integer",
             "format": "int32"
+          },
+          "diretor": {
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false

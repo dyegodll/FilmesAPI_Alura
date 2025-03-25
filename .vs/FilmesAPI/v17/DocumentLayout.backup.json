@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|c:\\users\\dyego.lima\\source\\repos\\filmesapi\\filmesapi_alura\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|solutionrelative:filmesapi_alura\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|c:\\users\\dyego.lima\\source\\repos\\filmesapi\\filmesapi_alura\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|solutionrelative:filmesapi_alura\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|c:\\users\\dyego.lima\\source\\repos\\filmesapi\\filmesapi_alura\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|solutionrelative:filmesapi_alura\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|c:\\users\\dyego.lima\\source\\repos\\filmesapi\\filmesapi_alura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 253,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -34,31 +34,30 @@
               "RelativeToolTip": "FilmesAPI_Alura\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T12:20:31.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T12:20:31.7Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Filme.cs",
               "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Models\\Filme.cs",
               "RelativeDocumentMoniker": "FilmesAPI_Alura\\Models\\Filme.cs",
               "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Models\\Filme.cs",
               "RelativeToolTip": "FilmesAPI_Alura\\Models\\Filme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:56:35.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FilmeController.cs",
               "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Controllers\\FilmeController.cs",
               "RelativeDocumentMoniker": "FilmesAPI_Alura\\Controllers\\FilmeController.cs",
               "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Controllers\\FilmeController.cs",
               "RelativeToolTip": "FilmesAPI_Alura\\Controllers\\FilmeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:53:27.563Z",
               "EditorCaption": ""

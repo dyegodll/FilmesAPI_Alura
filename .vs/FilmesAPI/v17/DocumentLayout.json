@@ -34,8 +34,7 @@
               "RelativeToolTip": "FilmesAPI_Alura\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T12:20:31.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T12:20:31.7Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "FilmesAPI_Alura\\Models\\Filme.cs",
               "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Models\\Filme.cs",
               "RelativeToolTip": "FilmesAPI_Alura\\Models\\Filme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:56:35.496Z",
               "EditorCaption": ""
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "FilmesAPI_Alura\\Controllers\\FilmeController.cs",
               "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Controllers\\FilmeController.cs",
               "RelativeToolTip": "FilmesAPI_Alura\\Controllers\\FilmeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:53:27.563Z",
               "EditorCaption": ""
