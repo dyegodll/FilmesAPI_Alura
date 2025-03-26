@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|c:\\users\\dyego.lima\\source\\repos\\filmesapi\\filmesapi_alura\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|solutionrelative:filmesapi_alura\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|c:\\users\\dyego.lima\\source\\repos\\filmesapi\\filmesapi_alura\\migrations\\20250326121713_criandotabeladefilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|solutionrelative:filmesapi_alura\\migrations\\20250326121713_criandotabeladefilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|c:\\users\\dyego.lima\\source\\repos\\filmesapi\\filmesapi_alura\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|solutionrelative:filmesapi_alura\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|c:\\users\\dyego.lima\\source\\repos\\filmesapi\\filmesapi_alura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|solutionrelative:filmesapi_alura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|c:\\users\\dyego.lima\\source\\repos\\filmesapi\\filmesapi_alura\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|solutionrelative:filmesapi_alura\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|c:\\users\\dyego.lima\\source\\repos\\filmesapi\\filmesapi_alura\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D1EB2BF-DD9C-4F50-BA1D-72511EADF77B}|FilmesAPI_Alura\\FilmesAPI.csproj|solutionrelative:filmesapi_alura\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +26,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 253,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Program.cs",
-              "RelativeDocumentMoniker": "FilmesAPI_Alura\\Program.cs",
-              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Program.cs",
-              "RelativeToolTip": "FilmesAPI_Alura\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20250326121713_CriandoTabelaDeFilme.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Migrations\\20250326121713_CriandoTabelaDeFilme.cs",
+              "RelativeDocumentMoniker": "FilmesAPI_Alura\\Migrations\\20250326121713_CriandoTabelaDeFilme.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Migrations\\20250326121713_CriandoTabelaDeFilme.cs",
+              "RelativeToolTip": "FilmesAPI_Alura\\Migrations\\20250326121713_CriandoTabelaDeFilme.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T12:20:31.7Z"
+              "WhenOpened": "2025-03-26T12:17:15.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\appsettings.json",
+              "RelativeDocumentMoniker": "FilmesAPI_Alura\\appsettings.json",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\appsettings.json",
+              "RelativeToolTip": "FilmesAPI_Alura\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T20:02:49.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,20 +62,20 @@
               "RelativeDocumentMoniker": "FilmesAPI_Alura\\Models\\Filme.cs",
               "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Models\\Filme.cs",
               "RelativeToolTip": "FilmesAPI_Alura\\Models\\Filme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:56:35.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FilmeController.cs",
               "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Controllers\\FilmeController.cs",
               "RelativeDocumentMoniker": "FilmesAPI_Alura\\Controllers\\FilmeController.cs",
               "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\FilmesAPI\\FilmesAPI_Alura\\Controllers\\FilmeController.cs",
               "RelativeToolTip": "FilmesAPI_Alura\\Controllers\\FilmeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T19:53:27.563Z",
               "EditorCaption": ""
