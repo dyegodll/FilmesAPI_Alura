@@ -61,7 +61,7 @@ public class FilmeController : ControllerBase
         return NoContent();
     }
 
-    [HttpPatch("{id}")]
+    [HttpPatch("{id}")] 
     public IActionResult AtualizarFilmeParcial(int id, JsonPatchDocument<UpdateFilmeDTO> patch)
     {
         Filme? filme = _context.Filmes.FirstOrDefault(f => f.Id == id);
@@ -74,6 +74,17 @@ public class FilmeController : ControllerBase
         _mapper.Map(filmeParaAtualizar, filme);
         _context.SaveChanges();
 
+        return NoContent();
+    }
+
+    [HttpDelete("{id}")]
+    public IActionResult RemoverFilme(int id)
+    {
+        Filme? filme = _context.Filmes.FirstOrDefault(f => f.Id == id);
+        if (filme is null) return NotFound();
+
+        _context.Filmes.Remove(filme);
+        _context.SaveChanges();
         return NoContent();
     }
 
