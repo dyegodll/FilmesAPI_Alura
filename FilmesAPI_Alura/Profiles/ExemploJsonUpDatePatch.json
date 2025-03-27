@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace", //OPERAÇÃO
+        "path": "/titulo", //"CAMINHO" DA COLUNA/CAMPO
+        "value": "Avatar: O último mestre do ar" //VALOR A SER INSERIDO/ATUALIZADO NO CAMPO
+    },
+    {
+        "op": "replace",
+        "path": "/genero",
+        "value": "AÇÃO/FICÇÃO"
+    }
+]

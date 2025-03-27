@@ -1,3 +1,11 @@
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.sourcelink.json
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\appsettings.json
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\FilmesAPI.staticwebassets.endpoints.json
@@ -6,6 +14,8 @@ C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\Film
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\FilmesAPI.runtimeconfig.json
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\FilmesAPI.dll
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\FilmesAPI.pdb
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\Humanizer.dll
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -19,14 +29,6 @@ C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\Pome
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.csproj.AssemblyReference.cache
-C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.AssemblyInfoInputs.cache
-C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.AssemblyInfo.cs
-C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.csproj.CoreCompileInputs.cache
-C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.sourcelink.json
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\scopedcss\bundle\FilmesAPI.styles.css
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\staticwebassets.development.json
@@ -44,3 +46,7 @@ C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\refi
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.pdb
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
 C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\dyego.lima\source\repos\FilmesAPI\FilmesAPI_Alura\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
